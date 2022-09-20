@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Canberk-Ozba
+- 👋 Hi, I’m @Canberk Ozba
 - 🌱 I’m currently learning Computer Science
 - 👀 I’m studying at Bilkent University
 
